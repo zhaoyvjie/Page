@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".SecondFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:src="@drawable/lu" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        android:text="    卢浮宫位于法国巴黎市中心的塞纳河北岸，位居世界四大博物馆之首。始建于1204年，原是法国的王宫，居住过50位法国国王和王后，是法国文艺复兴时期最珍贵的建筑物之一，以收藏丰富的古典绘画和雕刻而闻名于世。
+现为卢浮宫博物馆，占地约198公顷，分新老两部分，宫前的金字塔形玻璃入口，占地面积为24公顷，是华人建筑大师贝聿铭设计的。1793年8月10日，卢浮宫艺术馆正式对外开放，成为一个博物馆。"
+        android:textSize="25dp" />
+
+</LinearLayout>

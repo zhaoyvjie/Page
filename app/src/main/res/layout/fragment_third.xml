@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ThirdFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="wrap_content"
+        android:layout_height="300dp"
+        android:src="@drawable/kai" />
+
+    <TextView
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="巴黎凯旋门，即雄狮凯旋门(法语:l'Arc de triomphe de l'Étoile)，位于法国巴黎的戴高乐广场中央，香榭丽舍大街的西端。凯旋门正如其名，是一座迎接外出征战的军队凯旋的大门。它是现今世界上最大的一座圆拱门，位于巴黎市中心戴高乐广场中央的环岛上面。这座广场也是配合雄狮凯旋门而修建的，因为凯旋门建成后，给交通带来了不便，于是就在19世纪中叶，环绕凯旋门一周修建了一个圆形广场及12条道路，每条道路都有40~80米宽，呈放射状，就像明星发出的灿烂光芒，因此这个广场又叫明星广场。凯旋门也称为星门"
+        android:textSize="20dp"
+
+
+        />
+
+
+</LinearLayout>
